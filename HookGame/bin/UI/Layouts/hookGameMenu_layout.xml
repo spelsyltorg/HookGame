@@ -1,0 +1,10 @@
+<layout>
+  <panel image="box" width="{parent.width}" height="{parent.height}" color="26,36,59"/>
+  <text string="HOOK GAME" align="center" dock="hcenter" size="80" y="{parent.height * 0.25}" />
+  <button image="box" name="start_game_btn" dock="center" y="100" width="400" height="60" color="193, 207, 230">
+    <text string="START GAME" dock="center" align="center" size="24" outline_size="4" spacing="4" text_color="206, 208, 214"/>
+  </button>
+  <button image="box" name="quit_game_btn" dock="center" y="200" width="400" height="60" color="193, 207, 230">
+    <text string="QUIT TO DESKTOP" dock="center" align="center" size="24" outline_size="4" spacing="4" text_color="206, 208, 214"/>
+  </button>
+</layout>

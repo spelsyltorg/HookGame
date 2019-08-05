@@ -1,0 +1,4 @@
+<layout>
+  <panel image="box" width="{parent.width}" height="{parent.height}" color="26,36,59"/>
+  <text string="LOADING..." align="center" dock="center" size="80"/>
+</layout>

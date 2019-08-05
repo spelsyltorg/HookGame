@@ -1,0 +1,14 @@
+<layout>
+  <panel name="Kalle" dock="left|top" x="75" y="75" width="750" height="250">
+    <text string="Center" text_color="255,0,0" dock="center" align="center" size="30" font="arial"/>
+    <text string="Top|Left" text_color="255,0,0" size="30"/>
+    <text string="Top|Center" text_color="255,0,0" dock="hcenter" align="hcenter"/>
+    <text string="Top|Right" text_color="255,0,0" dock="right" align="right"/>
+    <text string="Bottom|Left" text_color="255,0,0" dock="bottom" align="left|bottom"/>
+    <text string="Bottom|Center" text_color="255,0,0" dock="bottom|hcenter" align="bottom|hcenter"/>
+    <text string="Bottom|Right" text_color="255,0,0" dock="bottom|right" align="bottom|right" size="30"/>
+    <text string="Center|Left" text_color="255,0,0" dock="left|vcenter" align="vcenter|left" size="30"/>
+    <text string="Center|Right" text_color="255,0,0" dock="right|vcenter" align="vcenter|right" size="30"/>
+  </panel>
+  <button image="TestSprite" name="Ivan" dock="right|bottom" x="-25" y="-25" width="300" height="250" color="255,0,0"/>
+</layout>

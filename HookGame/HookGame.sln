@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookGame", "HookGame\HookGame.vcxproj", "{FD2CC576-1840-4629-A4F8-9873B33BF345}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpelSylt", "..\SpelSylt\SpelSylt\SpelSylt\SpelSylt.vcxproj", "{51EC98B9-DB61-47C8-A253-5086ACA847E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DebugHMtNM|x64 = DebugHMtNM|x64
+		DebugHMtNM|x86 = DebugHMtNM|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2CC576-1840-4629-A4F8-9873B33BF345}.Debug|x64.ActiveCfg = Debug|x64
+		{FD2CC576-1840-4629-A4F8-9873B33BF345}.Debug|x64.Build.0 = Debug|x64
+		{FD2CC576-1840-4629-A4F8-9873B33BF345}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD2CC576-1840-4629-A4F8-9873B33BF345}.Debug|x86.Build.0 = Debug|Win32
+		{FD2CC576-1840-4629-A4F8-9873B33BF345}.DebugHMtNM|x64.ActiveCfg = Debug|x64
+		{FD2CC576-1840-4629-A4F8-9873B33BF345}.DebugHMtNM|x64.Build.0 = Debug|x64
+		{FD2CC576-1840-4629-A4F8-9873B33BF345}.DebugHMtNM|x86.ActiveCfg = Debug|Win32
+		{FD2CC576-1840-4629-A4F8-9873B33BF345}.DebugHMtNM|x86.Build.0 = Debug|Win32
+		{FD2CC576-1840-4629-A4F8-9873B33BF345}.Release|x64.ActiveCfg = Release|x64
+		{FD2CC576-1840-4629-A4F8-9873B33BF345}.Release|x64.Build.0 = Release|x64
+		{FD2CC576-1840-4629-A4F8-9873B33BF345}.Release|x86.ActiveCfg = Release|Win32
+		{FD2CC576-1840-4629-A4F8-9873B33BF345}.Release|x86.Build.0 = Release|Win32
+		{51EC98B9-DB61-47C8-A253-5086ACA847E3}.Debug|x64.ActiveCfg = Debug|x64
+		{51EC98B9-DB61-47C8-A253-5086ACA847E3}.Debug|x64.Build.0 = Debug|x64
+		{51EC98B9-DB61-47C8-A253-5086ACA847E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{51EC98B9-DB61-47C8-A253-5086ACA847E3}.Debug|x86.Build.0 = Debug|Win32
+		{51EC98B9-DB61-47C8-A253-5086ACA847E3}.DebugHMtNM|x64.ActiveCfg = DebugHMtNM|x64
+		{51EC98B9-DB61-47C8-A253-5086ACA847E3}.DebugHMtNM|x64.Build.0 = DebugHMtNM|x64
+		{51EC98B9-DB61-47C8-A253-5086ACA847E3}.DebugHMtNM|x86.ActiveCfg = DebugHMtNM|Win32
+		{51EC98B9-DB61-47C8-A253-5086ACA847E3}.DebugHMtNM|x86.Build.0 = DebugHMtNM|Win32
+		{51EC98B9-DB61-47C8-A253-5086ACA847E3}.Release|x64.ActiveCfg = Release|x64
+		{51EC98B9-DB61-47C8-A253-5086ACA847E3}.Release|x64.Build.0 = Release|x64
+		{51EC98B9-DB61-47C8-A253-5086ACA847E3}.Release|x86.ActiveCfg = Release|Win32
+		{51EC98B9-DB61-47C8-A253-5086ACA847E3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40571E61-6170-496D-B7E8-F879B54E752E}
+	EndGlobalSection
+EndGlobal
